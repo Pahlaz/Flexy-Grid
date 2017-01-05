@@ -1,7 +1,7 @@
 # Flexy-Grid-System
 A flexible grid system to help you developing website templates easily.
 
-![Grid](https://raw.githubusercontent.com/Pahlaz/Flexy-Grid-System/master/grid.png "Flexy Grid")
+![Grid](https://raw.githubusercontent.com/Pahlaz/Flexy-Grid/master/grid.png "Flexy Grid")
 
 This Grid System is made using FlexBox.
 
