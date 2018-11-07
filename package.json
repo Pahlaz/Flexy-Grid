@@ -1,25 +1,24 @@
 {
-  "name": "code-examiner",
+  "name": "Flexy-Grid",
   "version": "1.0.0",
-  "description": "A web portal for conducting coding tests.",
+  "description": "A flexible grid system to help you developing website templates easily.",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Pahlaz/CodeExaminer.git"
+    "url": "git+https://github.com/Pahlaz/Flexy-Grid.git"
   },
   "author": "Divyank Pahlazani",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Pahlaz/CodeExaminer/issues"
+    "url": "https://github.com/Pahlaz/Flexy-Grid/issues"
   },
-  "homepage": "https://github.com/Pahlaz/CodeExaminer#readme",
+  "homepage": "https://github.com/Pahlaz/Flexy-Grid#readme",
   "devDependencies": {
-    "browser-sync": "^2.17.0",
+    "browser-sync": "^2.13.0",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.1",
-    "gulp-imagemin": "^3.0.3"
   }
 }
